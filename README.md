@@ -12,16 +12,3 @@ A full-stack developer based in Indiana, USA.
 🔗 [LinkedIn](https://www.linkedin.com/in/zawadi-esube/)  
 📸 [Instagram](https://www.instagram.com/c_ad_eau/)  
 
-#### 🎁 cadeau
-A personal site built with HTML and CSS.  
-Features clean design, responsive layout, and links to my social profiles.  
-🔗 [Live site](https://zesube.github.io/cadeau)
-
-#### 🛠️ aws-network-diagrams
-Annotated diagrams for AWS networking assignments.  
-Demonstrates subnetting, security groups, alarms, and DNS configurations.
-
-#### 🐍 zyBooks-python-labs
-Perfected Python lab solutions from zyBooks coursework.  
-Focuses on output formatting, whitespace control, and iterative debugging.
-
