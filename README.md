@@ -7,8 +7,3 @@ A full-stack developer based in Indiana, USA.
 🔍 Persistent debugger who thrives on solving subtle formatting and connectivity issues  
 📚 Always learning — from Python scripts to AWS networking and IT service frameworks  
 🎶 Fun fact: I sing in a choir and love getting lost in a good book
-
-📎 Let's connect:  
-🔗 [LinkedIn](https://www.linkedin.com/in/zawadi-esube/)  
-📸 [Instagram](https://www.instagram.com/c_ad_eau/)  
-
