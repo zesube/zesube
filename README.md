@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Zawadi
 
-A full-stack developer based in Indiana, USA.
+🌱A student based in Indiana, USA, studying software development with a focus on full-stack. 
+💻I truly enjoy designing and building. My future goals are to work as a full-stack developer, but I also want to explore the world of robotics, including programming them and adding cool features.
 
-🌱 Currently studying Software Development at Ivy Tech Community College  
-💻 Passionate about building clean, scalable code and cloud infrastructure  
-🔍 Persistent debugger who thrives on solving subtle formatting and connectivity issues  
-📚 Always learning — from Python scripts to AWS networking and IT service frameworks  
-🎶 Fun fact: I sing in a choir and love getting lost in a good book
+Open to collaborating on cool projects. DM if interested in collaborating. I love and enjoy music. The 2010s are my vibe for music, with some traditional music as well. I have recently been interested in posting on Instagram about tech and random life stories. 🎶📚 I am a singer who enjoys singing, and I love books a lot. 
