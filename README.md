@@ -2,17 +2,6 @@
 
 I am a Software Development student based in Indiana, USA, with hands-on experience in both front-end and back-end development through academic projects. I have also worked with cloud technologies, including AWS and Azure, and have experience using Oracle APEX for database-driven applications. My long-term goal is to work in the robotics industry as a Software Engineer, contributing to intelligent systems that merge software with real-world applications. While I have worked across multiple technologies, I am currently focused on deepening my expertise in Python, Java, and React.js.
 
-#### Technical Skills
-
-**Languages & Frameworks:**
-Java, Kotlin, Python, JavaScript, React.js, Node.js, FastAPI, HTML, CSS  
-
-**Databases & Tools:**
-MongoDB, Oracle APEX  
-
-**Cloud Platforms:**
-AWS, Microsoft Azure  
-
 #### Beyond Coding
 Outside of development, I enjoy working out, singing, volunteering, and spending time with friends and family. I am passionate about music and value collaboration, especially on projects that provide opportunities to learn and grow.
 
