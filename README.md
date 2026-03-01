@@ -1,6 +1,24 @@
-## Hi there 👋 I'm Zawadi
+# Hi 👋 I'm Zawadi,
 
-🌱 A student based in Indiana, USA, studying software development with an interest in full-stack and robotics. 
-💻 Currently working towards becoming a developer with a main focus in robotics enigneering with a passion and interest in medical technology.
+I am a Software Development student based in Indiana, USA, with hands-on experience in both front-end and back-end development through academic projects. I have also worked with cloud technologies, including AWS and Azure, and have experience using Oracle APEX for database-driven applications.
 
-Open to collaborating on cool projects. DM if interested in collaborating. I love and enjoy music. The 2010s are my vibe for music, with some traditional music as well. I have recently been interested in posting on Instagram about tech and random life stories. 🎶📚 I am a singer who enjoys singing, and I love books a lot. 
+## Technical Skills
+
+**Languages & Frameworks:**
+Java, Kotlin, Python, JavaScript, React.js, Node.js, FastAPI, HTML, CSS  
+
+**Databases & Tools:**
+MongoDB, Oracle APEX  
+
+**Cloud Platforms:**
+AWS, Microsoft Azure  
+
+While I have worked across multiple technologies, I am currently focused on deepening my expertise in Python, Java, and React.js.
+
+## Career Goals
+
+My long-term goal is to work in the robotics industry as a Software Engineer, contributing to intelligent systems that merge software with real-world applications.
+
+## Beyond Coding
+
+Outside of development, I enjoy working out, singing, volunteering, and spending time with friends and family. I am passionate about music and value collaboration, especially on projects that provide opportunities to learn and grow.
