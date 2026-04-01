@@ -6,7 +6,7 @@
 > with a strong interest in how AI/ML can improve healthcare and support medical professionals.
 
 > I’ve also gained experience with robotics and control through a Johnson & Johnson MedTech simulation focused on improving a surgical robotic arm’s responsiveness, and I stay involved in > my community as a Youth Mentor with Big Brothers Big Sisters, a Social Media Intern with Computer Science Girlies, and a substitute teacher. While I’ve worked across multiple
-> technologies, I’m currently deepening my skills in Python, Java, and React.js, and outside of tech I enjoy working out, singing, volunteering, and spending time with friends and family.
+> technologies, I’m currently deepening my skills in Python, Java, and React.js, and outside of tech, I enjoy working out, singing, volunteering, and spending time with friends and family.
 
 
 
