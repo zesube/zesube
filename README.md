@@ -1,9 +1,14 @@
 # Hi 👋 I'm Zawadi
 
-> A Software Development student based in Indiana, USA, with hands-on experience in both front-end and back-end development through academic projects. I have also worked with cloud
-> technologies, including AWS and Azure, and have experience using Oracle APEX for database-driven applications. My long-term goal is to work in the robotics industry as a Software
-> Engineer, contributing to intelligent systems that merge software with real-world applications. While I have worked across multiple technologies, I am currently focused on deepening my
-> expertise in Python, Java, and React.js. Outside of development, I enjoy working out, singing, volunteering, and spending time with friends and family.
+> A Software Development student based in Indiana, USA, with hands-on front-end and back-end experience through projects like BembeLearn (Kotlin/Android language app), a Java-based
+> Financial Tracker, an Oracle APEX online book store, a responsive personal website, and a full-stack React/Node.js/MongoDB web application, as well as cloud deployments using AWS. I’m
+> currently pursuing my AAS in Software Development and plan to transfer to IU Indy for Computer Science, aiming to work in the robotics industry as a Software Engineer or AI/ML Engineer,
+> with a strong interest in how AI/ML can improve healthcare and support medical professionals.
+
+> I’ve also gained experience with robotics and control through a Johnson & Johnson MedTech simulation focused on improving a surgical robotic arm’s responsiveness, and I stay involved in > my community as a Youth Mentor with Big Brothers Big Sisters, a Social Media Intern with Computer Science Girlies, and a substitute teacher. While I’ve worked across multiple
+> technologies, I’m currently deepening my skills in Python, Java, and React.js, and outside of tech I enjoy working out, singing, volunteering, and spending time with friends and family.
+
+
 
 ---
 
