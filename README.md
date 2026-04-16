@@ -24,5 +24,4 @@ technologies, I’m currently deepening my skills in Python, Java, and React.js,
 Feel free to reach out — I’m open to collaborations and networking!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawadi-esube/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1294079394276446210)
 
