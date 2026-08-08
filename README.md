@@ -28,5 +28,3 @@ I have built projects using Java, Kotlin, React, Node.js, MongoDB, Oracle APEX, 
 ## 🤝🏾 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zawadi%20Esube-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zawadi-esube/)
-
-![Discord](https://img.shields.io/badge/Discord-zawadi_54970-5865F2?logo=discord&logoColor=white)
